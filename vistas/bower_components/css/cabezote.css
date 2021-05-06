@@ -1,0 +1,44 @@
+/*=============================================
+TOP
+=============================================*/
+
+#top ul{
+	padding-top:10px;
+}
+
+#top ul li{
+	display:inline;
+	line-height:30px;
+	margin:0px 5px;
+
+}
+
+
+.social ul li a i{
+	font-size:18px;
+	margin:0 1px;
+}
+
+.registro ul{
+	text-align: right;
+	font-size:16px;
+	
+
+}
+
+
+.registro ul li {
+
+padding: 10px;
+		
+	
+	}
+
+.registro ul li a{
+color: white;
+	
+
+}
+
+
+
